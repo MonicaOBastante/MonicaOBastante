@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @MonicaOBastante
+- I'm a Computer Engineer graduated from UC3M
 - 👀 I’m interested in videogames and novels
 - 🌱 I’m currently learning artificial inteligence
 - 💞️ I’m looking to collaborate on videogames or AI
